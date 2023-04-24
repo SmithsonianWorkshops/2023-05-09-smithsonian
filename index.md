@@ -293,10 +293,10 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <p><strong>Registration for all 3 lessons will open to the Smithsonian community on Tuesday, April 25, at 10AM.</strong> Here is an Outlook calendar invite to remind you of that date and time: <a href='files/registration_reminder.ics'>registration_reminder.ics</a></p>
 
-<button id="eventbrite-widget-modal-trigger-624004904467" type="button">Register for GitHub Day (Tuesday, May 9)</button>
+<button id="eventbrite-widget-modal-trigger-624004904467" type="button">Register for OpenRefine Day (Tuesday, May 9)</button>
 <br/>
 <br/>
-<button id="eventbrite-widget-modal-trigger-624006067947" type="button">Register for OpenRefine Day (Wednesday, May 10)</button>
+<button id="eventbrite-widget-modal-trigger-624006067947" type="button">Register for GitHub Day (Wednesday, May 10)</button>
 <br/>
 <br/>
 <button id="eventbrite-widget-modal-trigger-623999267607" type="button">Register for R Days (Tuesday and Wednesday, May 16 and 17)</button>
