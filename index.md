@@ -299,7 +299,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 <button id="eventbrite-widget-modal-trigger-624006067947" type="button">Register for GitHub Day (Wednesday, May 10)</button>
 <br/>
 <br/>
-<button id="eventbrite-widget-modal-trigger-623999267607" type="button">Register for R Days (Tuesday and Wednesday, May 16 and 17)</button>
+<button id="eventbrite-widget-modal-trigger-623999267607" type="button">Register for Python Days (Tuesday and Wednesday, May 16 and 17)</button>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
