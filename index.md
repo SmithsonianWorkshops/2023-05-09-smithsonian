@@ -287,6 +287,51 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <hr/>
 
+<h2 id="registration">Registration</h2>
+
+<p>We encourage learners to sign up for all 3 lessons (GitHub, OpenRefine, and R), but we are splitting up registration so that learners can sign up for the lessons that fit into their busy schedules.
+</p>
+<p><strong>Registration for all 3 lessons will open to the Smithsonian community on Tuesday, October 11, at 10AM.</strong> Here is an Outlook calendar invite to remind you of that date and time: <a href='files/registration_reminder.ics'>registration_reminder.ics</a></p>
+
+<button id="eventbrite-widget-modal-trigger-433110273487" type="button">Register for GitHub Day (Tuesday, October 18)</button>
+<br/>
+<br/>
+<button id="eventbrite-widget-modal-trigger-433226300527" type="button">Register for OpenRefine Day (Wednesday, October 19)</button>
+<br/>
+<br/>
+<button id="eventbrite-widget-modal-trigger-433229309527" type="button">Register for R Days (Tuesday and Wednesday, October 25 and 26)</button>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '433110273487',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-433110273487',
+        onOrderComplete: exampleCallback
+    });
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '433226300527',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-433226300527',
+        onOrderComplete: exampleCallback
+    });
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '433229309527',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-433229309527',
+        onOrderComplete: exampleCallback
+    });
+</script>
+
+<hr/>
 
 {% comment %}
 Collaborative Notes
