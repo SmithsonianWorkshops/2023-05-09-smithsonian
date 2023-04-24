@@ -19,11 +19,10 @@ Ecology workshops
 {% elsif site.curriculum == "dc-ecology" %}
 
 {% if site.flavor == "r" %}
-<p>
-  The setup instructions for the Data Carpentry Ecology workshops (with R)
-  can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
-    the workshop overview site</a>.
-</p>
+{% include install_instructions/github.html %}
+{% include install_instructions/openrefine.html %}
+{% include install_instructions/r.html %}
+
 
 {% elsif site.flavor == "python" %}
 <p>
@@ -36,6 +35,7 @@ Ecology workshops
 {% endif %}
 
 {% comment %}
+
 Genomics workshops
 {% endcomment %}
 
