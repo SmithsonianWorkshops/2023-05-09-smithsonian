@@ -291,15 +291,15 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 <p>We encourage learners to sign up for all 3 lessons (GitHub, OpenRefine, and R), but we are splitting up registration so that learners can sign up for the lessons that fit into their busy schedules.
 </p>
-<p><strong>Registration for all 3 lessons will open to the Smithsonian community on Tuesday, October 11, at 10AM.</strong> Here is an Outlook calendar invite to remind you of that date and time: <a href='files/registration_reminder.ics'>registration_reminder.ics</a></p>
+<p><strong>Registration for all 3 lessons will open to the Smithsonian community on Tuesday, April 25, at 10AM.</strong> Here is an Outlook calendar invite to remind you of that date and time: <a href='files/registration_reminder.ics'>registration_reminder.ics</a></p>
 
-<button id="eventbrite-widget-modal-trigger-433110273487" type="button">Register for GitHub Day (Tuesday, October 18)</button>
+<button id="eventbrite-widget-modal-trigger-624004904467" type="button">Register for GitHub Day (Tuesday, May 9)</button>
 <br/>
 <br/>
-<button id="eventbrite-widget-modal-trigger-433226300527" type="button">Register for OpenRefine Day (Wednesday, October 19)</button>
+<button id="eventbrite-widget-modal-trigger-624006067947" type="button">Register for OpenRefine Day (Wednesday, May 10)</button>
 <br/>
 <br/>
-<button id="eventbrite-widget-modal-trigger-433229309527" type="button">Register for R Days (Tuesday and Wednesday, October 25 and 26)</button>
+<button id="eventbrite-widget-modal-trigger-623999267607" type="button">Register for R Days (Tuesday and Wednesday, May 16 and 17)</button>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -310,23 +310,23 @@ Everyone who participates in Carpentries activities is required to conform to th
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '433110273487',
+        eventId: '624004904467',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-433110273487',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-624004904467',
         onOrderComplete: exampleCallback
     });
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '433226300527',
+        eventId: '624006067947',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-433226300527',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-624006067947',
         onOrderComplete: exampleCallback
     });
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '433229309527',
+        eventId: '623999267607',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-433229309527',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-623999267607',
         onOrderComplete: exampleCallback
     });
 </script>
